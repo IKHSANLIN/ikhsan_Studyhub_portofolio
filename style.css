@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #14255c;
+}
+
+#talents {
+  background-color: #7dedff;
+}
+
+section {
+  padding-top: 5rem;
+}
+.name{
+  color:#fff;
+}
+.work{
+  color: #fff;
+}
